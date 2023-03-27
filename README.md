@@ -18,5 +18,5 @@ https://mapty-paulaneesh7.netlify.app/
 * LocalStorage is used to store the user's workout information, so even if user closes the application once, his information will still be stored and displayed again       once he/she comes back
 
 
-## License,
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
